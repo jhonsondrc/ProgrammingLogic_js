@@ -6,4 +6,3 @@
 2. Programação Orientada a Objeto;
 3. React - Componentes tipo classe;
 4. React - Componentes funcionais;
-
