@@ -1,3 +1,9 @@
-# Lógica de programação com Javascript
+# Curso de Web & React LetsCode 2021
 
-Repositório para exercícios do curso de lógica de programação em js.
+## Módulos
+
+1. Lógica de programação com Javascript;
+2. Programação Orientada a Objeto;
+3. React - Componentes tipo classe;
+4. React - Componentes funcionais;
+
